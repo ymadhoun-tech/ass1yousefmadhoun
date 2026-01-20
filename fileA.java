@@ -38,12 +38,6 @@ public class Main {
 
 
 
-        System.out.println("Enter Your Year of birth   : ");
-        Scanner ybirth = new Scanner(System.in);
-        int ybtInt = ybirth.nextInt();
-        System.out.print("Your Age in Year" + "  ");
-        System.out.println( 2026 - ybtInt);
-
 
     }
 }
