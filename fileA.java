@@ -34,12 +34,7 @@ public class Main {
         System.out.print("  " + "your amount in dollar is");
         System.out.printf("%.2f", amount_in_dollar );
 */
-/*
-        System.out.println("Enter Your Name: ");
-        Scanner name = new Scanner(System.in);
-        String username = name.nextLine();
-        System.out.println("Welcome" + " " +  "\"" + username + "\"" + "  " + "in UCAS");
-*/
+
 
 
 
